@@ -1,0 +1,7 @@
+Es-Español:
+Instala el microsoft DirectX y tambien los vcredist de Microsoft c++ para evitar problema con el Ultra Hack 
+Cualquier duda me puedes mandar un mensaje por discord.
+
+En-English:
+Install microsoft DirectX and also Microsoft c ++ vcredist to avoid problem with Ultra Hack
+Any questions you can send me a message by discord.
