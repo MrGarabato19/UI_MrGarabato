@@ -1,0 +1,46 @@
+﻿Hola usuario, que bueno que abriste este archivo y es para decirte gracias por elegir/testear mi proyecto
+ante esto quiero dejarte una informacion para que tengas en cuenta y algunas recomendaciones en forma de lista:
+
+1)LA MAS IMPORTANTE DE TODAS LAS 18 RECOMENDACIONES, APENAS SE INSTALO EL SISTEMA ESPERA QUE TE INDIQUE QUE PODES REINCIAR EL SISTEMA, NO LO REINICIES ANTES.
+
+2)EL menu especial se activa haciendo SHIFT y CLICK DERECHO DEL MOUSE al mismo tiempo.
+
+3)INSTALA LOS DRIVERS DE LA PLACA DE VIDEO, ademas de los otros drivers O LOS JUEGOS TE VAN A FUNCIONAR MAL
+
+4)LOS DRIVERS DE NVIDIA Y DE AMD PARA NO TENER PROBLEMAS A LA HORA RECOMIENDO BAJARLO DESDE LA PROPIA PAGINA DE NVIDIA Y DE AMD RESPECTIVAMENTE
+
+5)SI EN CASO DE QUE NO TE INSTALA EL PANEL DE NVIDIA U/O PANEL DE INTEL ES NECESARIO DESCARGARLO DESDE LA MICROSOFT STORE
+
+6)Windows update esta por defecto desactivado por lo tanto si necesitas actualizar el sistema
+o si necesitas usar un aplicativo de windows ej la tienda, tendras que activar  windows update.
+
+7)Cualquier MODO que eligas va reiniciar tu pc automaticamente, No hace falta que vuelvas a re ejecutar un modo, salvo que quieras cambiar de modo y/o si actualizaste windows.
+Aca te dejo una breve explicacion para cada modo(NINGUNO REALIZA UN OVERLOCK EN EL SISTEMA)
+
+a)Modo Iron: setea el sistema para el uso minimo de recursos a un 60%.
+b)Modo Silver: setea el sistema en uso de los recursos por defecto.
+c)Modo Gold: setea el sistema en especial para los juegos con la finalidad de ganar un mejor rendimiento a un maximo del 99%.
+d)Modo Platinum : setea el sistema en especial para obtener una mejor experiencia en los juegos , en caso de que el rendimiento sea menor usar el modo boost Diamond
+e)Modo Diamond: setea el sistema en especial para obtener una mejor experiencia en los juegos, en caso de que el rendimiento sea menor usar el modo boost Platinum
+
+8)La aplicacion Optimizar ping usarlo solamente despues que actualizas los drivers.
+
+9)Si queres eliminar la store usa el desinstalador de aplicaciones(menu contextual) en la seccion store apps.
+
+10)Si tu equipo dispone de una placa ATI/AMD y el inicio del sistema es demasiado lento o la pantalla se pone negra por mucho tiempo, ejecuta la opcion Optimizar arranque en placas ATI/AMD en el menu contextual.
+
+11)Windows search esta desactivado por defecto, por lo tanto si necesitas la busqueda de archivos tenes que activarlo por la Opcion en el menu contextual de complementos
+
+12)Los modos Iron y Silver activan la barra de juegos y los otros restantes la desactivan
+
+13)Para activar windows y office abrir el archivo Activar Windows y Office que se encuentra en Documentos\Extras
+
+14)Si usabas el modo platino en las versiones anteriores en esta ultima tendras que usar el modo diamante, por lo tanto si usabas el diamante en versione anteriores en esta version usaras el platino
+
+15)Si te salta el error 2502/2503 tenes que darle todos los permisos al ususario ( usuarios) que se encuenta en Windows/Temp
+
+16)Si vas a usar un antivirus configuralo para que no borre nada de las 2 siguientes rutas: C:\Program Files\Easy Context Menu y C:\Windows\WinterOSTLW
+
+17)El Video de fondo de pantalla se encuentra en la carpeta videos, para eso tenes que ir a este equipo y dentro de la carpeta videos lo vas a encontrar
+
+18)Espero que disfrutes el sistema :D
