@@ -11,7 +11,8 @@ https://bit.ly/3v9H0oR
 https://mrgarabato.tk/
 
 Español: 
-Si tienes algún problema puedes ayudar aquí 
+Si tienes algún problema puedes ayudar aquí
+
 https://discord.gg/H4WXXK8tqp
 
 English: 
