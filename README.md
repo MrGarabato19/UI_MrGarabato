@@ -26,7 +26,7 @@ https://mrgarabato.tk/
 
 
 ## Hack List:
-1. Left 4 Dead 2
+1. Left 4 Dead 2 [^1].
 2. Free Fire
 3. Spotify
 4. Dota 2
@@ -50,3 +50,5 @@ https://discord.gg/H4WXXK8tqp
 Русский: 
 Если у вас есть какие-либо проблемы, вы можете помочь здесь 
 https://discord.gg/H4WXXK8tqp
+
+## Left 4 Dead 2: [^1]
