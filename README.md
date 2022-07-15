@@ -37,19 +37,19 @@ https://mrgarabato.tk/
 
 Español: 
 Si tienes algún problema puedes ayudar aqui
-https://discord.gg/H4WXXK8tqp
+[https://discord.gg/H4WXXK8tqp](https://discord.gg/mrgarabato)
 
 English: 
 If you have any problems you can help here 
-https://discord.gg/H4WXXK8tqp
+[https://discord.gg/H4WXXK8tqp](https://discord.gg/mrgarabato)
 
 Português: 
 Se você tiver algum problema, você pode ajudar aqui
-https://discord.gg/H4WXXK8tqp
+[https://discord.gg/H4WXXK8tqp](https://discord.gg/mrgarabato)
 
 Русский: 
 Если у вас есть какие-либо проблемы, вы можете помочь здесь 
-https://discord.gg/H4WXXK8tqp
+[https://discord.gg/H4WXXK8tqp](https://discord.gg/mrgarabato)
 
 ## Left 4 Dead 2:
 **Content:**
